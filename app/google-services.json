@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304911790143",
+    "project_id": "pham-manh",
+    "storage_bucket": "pham-manh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304911790143:android:70beb970be6938cf8b088a",
+        "android_client_info": {
+          "package_name": "com.hxanh.movieticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrvOm8xvjKo_YXKZHKiDMM2xsGgWwjSrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
